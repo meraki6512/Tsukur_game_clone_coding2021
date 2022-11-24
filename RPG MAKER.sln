@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG MAKER", "RPG MAKER.csproj", "{AF63462A-9B04-E846-EFCE-734C60DC7D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG MAKER.Editor", "RPG MAKER.Editor.csproj", "{04333F0C-F3C8-BEE0-F2D3-30D0208D0238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF63462A-9B04-E846-EFCE-734C60DC7D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF63462A-9B04-E846-EFCE-734C60DC7D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF63462A-9B04-E846-EFCE-734C60DC7D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF63462A-9B04-E846-EFCE-734C60DC7D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04333F0C-F3C8-BEE0-F2D3-30D0208D0238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04333F0C-F3C8-BEE0-F2D3-30D0208D0238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04333F0C-F3C8-BEE0-F2D3-30D0208D0238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04333F0C-F3C8-BEE0-F2D3-30D0208D0238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
